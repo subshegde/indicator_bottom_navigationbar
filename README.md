@@ -1,5 +1,9 @@
 # Indicator Bottom Navigation Bar
 
+Demo video: 
+
+https://github.com/user-attachments/assets/0fa46395-1970-4706-87f7-55a3a88fa0d7
+
 **Overview**: 
 -  The `IndicatorBottomNavigationbar` is a highly customizable Flutter widget designed to create a bottom navigation bar with a visually appealing animated indicator. This indicator moves and changes its appearance when a navigation item is selected, providing a modern and dynamic navigation experience. The widget allows for the customization of various aspects such as the selected/unselected item colors, indicator height and width, and the icon-label pair for each navigation item.
 
