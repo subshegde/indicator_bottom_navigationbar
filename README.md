@@ -1,7 +1,8 @@
 # Indicator Bottom Navigation Bar
 
-Demo video: 
+![ibnb](https://github.com/user-attachments/assets/6b235d5b-d20e-4cc7-b11d-31de32d0ae5a)
 
+Demo video: 
 https://github.com/user-attachments/assets/0fa46395-1970-4706-87f7-55a3a88fa0d7
 
 **Overview**: 
