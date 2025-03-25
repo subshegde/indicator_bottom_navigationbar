@@ -70,7 +70,7 @@ Ensure you have the following installed on your system:
 Here’s how to integrate the `IndicatorBottomNavigationbar` widget into your Flutter app:
 
 ## Demo Video
-[![YouTube](https://img.shields.io/badge/-YouTube-black.svg?style=for-the-badge&logo=youtube&colorB=555)](https://youtu.be/GQJImcnQNuM?si=UtnxLdpp6uZqGa3R)
+[![YouTube](https://img.shields.io/badge/-YouTube-black.svg?style=for-the-badge&logo=youtube&colorB=555)](https://youtu.be/knttxgD-ZKs?si=i2Ct4mDwIdSNYJAi)
 
 
 ```dart

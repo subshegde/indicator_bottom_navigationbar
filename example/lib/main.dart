@@ -41,7 +41,7 @@ class _ExampleState extends State<Example> {
       backgroundColor: Colors.white,
       bottomNavigationBar: IndicatorBottomNavigationbar(
         currentIndex: currentIndex,
-        onTap: (index){
+        onTap: (index) {
           currentIndex = index;
           setState(() {});
         },
